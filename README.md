@@ -6,4 +6,4 @@ Este es mi proyecto de sostenibilidad aplicada para el módulo Proyecto intermod
 
 ### Objetivo del proyecto
 
-Identificar y analizar cómo se integran los princpios del desarrollo sostenible en el sector de la informática, así como comprender el impacto y la aplicación de estos ODS.
+Identificar y analizar cómo se integran los principios del desarrollo sostenible en el sector de la informática, así como comprender el impacto y la aplicación de estos ODS.
